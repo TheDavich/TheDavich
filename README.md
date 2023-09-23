@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Davud</h1>
 <h3 align="center">Eager and diligent Android developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47q7fb6s6peu1kvaoghehmrs47ct40l6folszmxlnq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thedavich&label=Profile%20views&color=0e75b6&style=flat" alt="thedavich" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thedavich&label=Profile%20views&color=0e75b6&style=flat" alt="thedavich" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedavich" alt="thedavich" /></a> </p>
 
