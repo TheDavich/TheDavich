@@ -1,33 +1,65 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/TheDavich)
-<h1 align="center">Hi 👋, I'm Davud</h1>
-<h3 align="center">Eager and diligent Android developer</h3>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thedavich&label=Profile%20views&color=0e75b6&style=flat" alt="thedavich" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedavich" alt="thedavich" /></a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmet-davud-kiztek-553870220/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/davudkyztek/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [RealtyDeal](https://gitlab.com/realty-deal/reltydeal_android)
+###
 
-- 🌱 I’m currently learning **Algorithms with Kotlin**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thedavich.thedavich&"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheDavich](https://github.com/TheDavich)
+###
 
-- 💬 Ask me about **Android, jetpack compose**
+<h1 align="center">hey there 👋</h1>
 
-- 📫 How to reach me **k.davud@yandex.ru**
+###
 
-- ⚡ Fun fact **My learning streak is 90 days non-stop**
+<h3 align="left">👨‍💻  About Me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/davudkyztek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davudkyztek" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left">I'm an eager and diligent Android developer from Kyrgyzstan<br><br>- 🔭 I’m working as an Android developer intern @PMOrdo<br>- 🛠️ I'm currently working on [RealtyDeal](https://gitlab.com/realty-deal/reltydeal_android)<br>- ⚡ In my free time I study more frameworks<br>- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/TheDavich)<br>- 💬 Ask me about **Android, jetpack compose**<br>- 📫 How to reach me **k.davud@yandex.ru**</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedavich&show_icons=true&locale=en&layout=compact" alt="thedavich" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedavich&show_icons=true&locale=en" alt="thedavich" /></p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedavich&" alt="thedavich" /></p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedavich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedavich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=thedavich&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
