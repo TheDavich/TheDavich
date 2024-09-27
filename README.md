@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm an eager and diligent Android developer from Kyrgyzstan<br><br>- 🔭 I’m working as an Android developer intern @PMOrdo<br>- 🛠️ I'm currently working on <a href="https://gitlab.com/realty-deal/reltydeal_android">RealtyDeal</a><br>- ⚡ In my free time I study more frameworks<br>- 👨‍💻 All of my projects are available on my <a href="https://github.com/TheDavich">GitHub</a><br>- 💬 Ask me about <strong>Android, jetpack compose</strong><br>- 📫 How to reach me <a href="mailto:k.davud@yandex.ru">k.davud@yandex.ru</a></p>
+<p align="left">I'm an eager and diligent Android developer from Kyrgyzstan<br><br>- 🔭 I’m working as an Android developer @Pavali Technology<br>- 🛠️ I'm currently working on <a href="https://gitlab.com/realty-deal/reltydeal_android">V2 App</a><br>- ⚡ In my free time I study more frameworks<br>- 👨‍💻 All of my projects are available on my <a href="https://github.com/TheDavich">GitHub</a><br>- 💬 Ask me about <strong>Android, jetpack compose</strong><br>- 📫 How to reach me <a href="mailto:k.davud@yandex.ru">davud3215@gmail.com</a></p>
 
 ###
 
